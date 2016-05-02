@@ -1,0 +1,14 @@
+EPIC: Login
+Feature: Single Sign On - Facebook
+Originator: MikeM
+Importance( 1-5): 1
+Effort(1-5): 3
+Story Points: 16 
+1 30 min
+2 1h
+4 2h
+8 4h
+16 1d
+32 2d
+Description:
+Users should be able to create an account using Facebook's single sign on. Additionally, users should be able to return an log into their account using Facebook single sign on.
